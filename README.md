@@ -41,7 +41,7 @@ A Windows Forms application for tracking AC manufacturing, serial number generat
 ---
 
 ## 📫 Contact Me
-- 📧 **ibadullah.dev@gmail.com**
+- 📧 **ibadullah.k81@gmail.com**
 
 
 ---
