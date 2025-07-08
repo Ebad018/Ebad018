@@ -1,48 +1,55 @@
-# Hi there, I'm Ibad Ullah 👋
+Hi there, I'm Ibad Ullah 👋
+💻 Lead Software Engineer | 🎮 Indie Game Developer
+🚀 About Me
+I’m a results-driven software engineer with 4+ years of experience building multi-tiered applications, embedded systems, and full-stack solutions. Currently working as Lead Software Engineer at Sabro Technologies, I specialize in:
 
-### 💻 Software Engineer | | 🎮 Indie Game Developer
+.NET Framework/Core (C#, VB.NET, Blazor, WinForms)
 
----
+Real-time & embedded communication (ESP32, Modbus RTU, MQTT, Bluetooth)
 
-## 🚀 About Me
+Game development with Unity (PC & Mobile)
 
-I'm a passionate Software Engineer currently working at **Sabro Technologies**, with hands-on experience in:
-- **C#, .NET, WinForms & Firebase Integration**
-- **IoT Solutions with ESP32, MQTT, and Modbus RS-485**
-- **Unity Game Development (PC & Mobile)**
+Firebase/SQL Server-based backend systems
 
-I love building solutions that bridge hardware and software, and I occasionally dive into game design to bring interactive experiences to life.
+Team leadership, technical recruitment, and mentoring
 
----
+I'm passionate about bridging software with hardware, and I love prototyping tools and systems that solve real-world problems—or creating games that bring people joy.
 
-## 🏆 Featured Projects
+🏆 Featured Projects
+🎮 Dead Extraction
+A zombie extraction shooter with base-building and permadeath mechanics. Inspired by Escape from Tarkov and State of Decay, players must scavenge, survive, and make every bullet count.
 
-### 🎮 Dead Extraction
-An extraction-based survival shooter inspired by *Escape From Tarkov* and *State of Decay*. Players manage a base and risk it all venturing into zombie-infested cities for supplies.
+🤠 Wild West Duel Game
+A fast-paced local multiplayer QTE-based showdown. Think Samurai Gunn meets Red Dead—outdraw your opponent in three randomized steps: draw, cock, fire.
 
-### 🤠 Wild West Duel Game
-A fast-paced local multiplayer QTE (Quick Time Event) shooter where players duel in classic western style.
+🛠️ Sabro Quality Assurance Suite
+A Windows Forms + Firebase-powered QA application for HVAC manufacturing. Supports serial generation, data validation, and production testing workflows.
 
-### 🛠️ Sabro Quality Assurance App
-A Windows Forms application for tracking AC manufacturing, serial number generation, and quality control, fully integrated with Firebase Firestore.
+🧰 Tech Stack
+Languages: C#, VB.NET, C++, Dart, TypeScript, JavaScript, HTML/CSS, SQL
 
----
+Frameworks & Platforms: .NET Framework/Core, Blazor, WinForms, Razor Pages, Flutter
 
-## 🧰 Tech Stack
-- **Languages:** C#, C++, Dart, Python, JavaScript
-- **Platforms:** Windows, Android, IoT
-- **Tools:** Unity, Firebase, WinForms, Flutter, Arduino IDE
-- **Version Control:** Git, GitHub
+Tools & Libraries: Unity, Firebase, Firestore, Arduino IDE, Excel Macros
 
----
+Embedded & Comms: ESP32, Modbus RTU (RS-485), MQTT, WebSocket
 
-## 📫 Contact Me
-- 📧 **ibadullah.k81@gmail.com**
+Database Systems: SQL Server, MySQL, Firebase Realtime DB
 
+Practices: Agile/Scrum, TLS, AES Encryption, data confidentiality handling
 
----
+🧠 Leadership Highlights
+Built and mentored a 10-person cross-functional software team (Embedded, Android, Web, Frontend/Backend).
 
-## 🤝 Let's Collaborate!
-I'm open to collaborating on exciting **Software**, or **Game Development** projects. Feel free to connect or reach out!
+Led technical recruitment using AI screening tools and custom pseudo-code tests.
 
+Conducted code reviews, sprint planning, and architectural decisions for multiple internal systems.
+
+📫 Contact Me
+📧 ibadullah.k81@gmail.com
+
+☎️ (+92) 305-8777434
+
+🤝 Let's Collaborate!
+I'm open to working on exciting Software, IoT, or Game Development projects. Whether it's prototyping an embedded tool or launching your next game on Steam, let's talk.
 
