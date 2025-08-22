@@ -1,12 +1,12 @@
 # Hi there, I'm Ibad Ullah 👋  
-## 💻 Lead Software Engineer | 🎮 Indie Game Developer  
+##  Software Engineer | 🎮 Indie Game Developer  
 
 ---
 
-### 🚀 About Me  
-I’m a results-driven software engineer with **4+ years of experience** building multi-tiered applications, embedded systems, and full-stack solutions.  
+###  About Me  
+I’m a results-driven software engineer with **3+ years of experience** building multi-tiered applications, embedded systems, and full-stack solutions.  
 
-Currently working as **Lead Software Engineer at Sabro Technologies**, I specialize in:
+Currently working as **Software Engineer at Sabro Technologies**, I specialize in:
 
 - **.NET Framework/Core** (C#, VB.NET, Blazor, WinForms)  
 - **Real-time & embedded communication** (ESP32, Modbus RTU, MQTT, Bluetooth)  
@@ -20,10 +20,7 @@ I'm passionate about bridging software with hardware, and I love prototyping too
 
 ### 🏆 Featured Projects
 
-#### 🎮 Dead Extraction  
-A zombie extraction shooter with base-building and permadeath mechanics.  
-*Inspired by Escape from Tarkov and State of Decay.*  
-Players must scavenge, survive, and make every bullet count.
+
 
 #### 🤠 Wild West Duel Game  
 A fast-paced local multiplayer QTE-based showdown.  
@@ -59,9 +56,7 @@ Agile/Scrum, TLS, AES Encryption, data confidentiality handling
 
 ### 🧠 Leadership Highlights  
 
-- Built and mentored a **10-person cross-functional software team** (Embedded, Android, Web, Frontend/Backend)  
-- Led **technical recruitment** using AI screening tools and custom pseudo-code tests  
-- Conducted **code reviews, sprint planning, and architectural decisions** for multiple internal systems  
+- Worked with and Lead a 6 person cross-functional software team** (Embedded, Android, Web, Frontend/Backend)    
 
 ---
 
