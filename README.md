@@ -35,7 +35,7 @@ Supports serial generation, data validation, and production testing workflows.
 ### 🧰 Tech Stack
 
 **Languages:**  
-C#, VB.NET, C++, Dart, TypeScript, JavaScript, HTML/CSS, SQL  
+C#, VB.NET, C++, Dart, TypeScript, JavaScript, HTML/CSS, SQL, Python
 
 **Frameworks & Platforms:**  
 .NET Framework/Core, Blazor, WinForms, Razor Pages, Flutter  
