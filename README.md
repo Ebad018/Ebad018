@@ -1,4 +1,4 @@
-# Hi there, I'm Ibad Ullah 👋  
+# Hi there, I'm Ibad Ullah 
 ##  Software Engineer | 🎮 Indie Game Developer  
 
 ---
@@ -26,9 +26,7 @@ I'm passionate about bridging software with hardware, and I love prototyping too
 A fast-paced local multiplayer QTE-based showdown.  
 *Think Samurai Gunn meets Red Dead*—outdraw your opponent in three randomized steps: draw, cock, fire.
 
-#### 🛠️ Sabro Quality Assurance Suite  
-A Windows Forms + Firebase-powered QA application for HVAC manufacturing.  
-Supports serial generation, data validation, and production testing workflows.
+
 
 ---
 
