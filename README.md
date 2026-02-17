@@ -1,5 +1,5 @@
 # Hi there, I'm Ibad Ullah 
-##  Software Engineer | 🎮 Indie Game Developer  
+##  Software Engineer |  Indie Game Developer  
 
 ---
 
@@ -18,11 +18,11 @@ I'm passionate about bridging software with hardware, and I love prototyping too
 
 ---
 
-### 🏆 Featured Projects
+###  Featured Projects
 
 
 
-#### 🤠 Wild West Duel Game  
+####  Wild West Duel Game  
 A fast-paced local multiplayer QTE-based showdown.  
 *Think Samurai Gunn meets Red Dead*—outdraw your opponent in three randomized steps: draw, cock, fire.
 
@@ -30,7 +30,7 @@ A fast-paced local multiplayer QTE-based showdown.
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages:**  
 C#, VB.NET, C++, Dart, TypeScript, JavaScript, HTML/CSS, SQL, Python
@@ -52,18 +52,18 @@ Agile/Scrum, TLS, AES Encryption, data confidentiality handling
 
 ---
 
-### 🧠 Leadership Highlights  
+###  Leadership Highlights  
 
 - Worked with and Lead a 6 person cross-functional software team** (Embedded, Android, Web, Frontend/Backend)    
 
 ---
 
-### 📫 Contact Me  
-📧 **Email:** ibadullah.k81@gmail.com  
-📞 **Phone:** (+92) 305-8777434  
+###  Contact Me  
+ **Email:** ibadullah.k81@gmail.com  
+ **Phone:** (+92) 305-8777434  
 
 ---
 
-### 🤝 Let's Collaborate!  
+###  Let's Collaborate!  
 I'm open to working on exciting **Software**, **IoT**, or **Game Development** projects.  
 Whether it's **prototyping an embedded tool** or **launching your next game on Steam**, let's talk.
