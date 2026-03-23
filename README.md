@@ -6,7 +6,7 @@
 ###  About Me  
 I’m a results-driven software engineer with **5+ years of experience** building multi-tiered applications, embedded systems,full-stack solutions and Game Programming.  
 
-Currently working as **Studying Game Programming in Sweden, Stockhom**, I specialize in:
+Currently **Studying Game Programming in Sweden, Stockhom**, I specialize in:
 
 - **.NET Framework/Core** (C#, VB.NET, Blazor, WinForms)  
 - **Real-time & embedded communication** (ESP32, Modbus RTU, MQTT, Bluetooth)  
