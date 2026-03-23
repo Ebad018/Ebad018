@@ -4,16 +4,17 @@
 ---
 
 ###  About Me  
-I’m a results-driven software engineer with **3+ years of experience** building multi-tiered applications, embedded systems, and full-stack solutions.  
+I’m a results-driven software engineer with **5+ years of experience** building multi-tiered applications, embedded systems,full-stack solutions and Game Programming.  
 
-Currently working as **Software Engineer at Sabro Technologies**, I specialize in:
+Currently working as **Studying Game Programming in Sweden, Stockhom**, I specialize in:
 
 - **.NET Framework/Core** (C#, VB.NET, Blazor, WinForms)  
 - **Real-time & embedded communication** (ESP32, Modbus RTU, MQTT, Bluetooth)  
 - **Game development with Unity** (PC & Mobile)  
 - **Firebase/SQL Server-based backend systems**  
 - **Team leadership, technical recruitment, and mentoring**
-
+- **Game Programming Patterns**(EnemyFactory, Singltons, object pooling)
+- **Game Design** (level iteration, Player experience, Adding Juice to the Mechanics)   
 I'm passionate about bridging software with hardware, and I love prototyping tools and systems that solve real-world problems—or creating games that bring people joy.
 
 ---
