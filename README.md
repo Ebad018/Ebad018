@@ -22,10 +22,7 @@ I'm passionate about bridging software with hardware, and I love prototyping too
 ###  Featured Projects
 
 
-
-####  Wild West Duel Game  
-A fast-paced local multiplayer QTE-based showdown.  
-*Think Samurai Gunn meets Red Dead*—outdraw your opponent in three randomized steps: draw, cock, fire.
+https://ebad018.github.io/ 
 
 
 
