@@ -4,13 +4,13 @@
 ---
 
 ###  About Me  
-I’m a results-driven software engineer with **5+ years of experience** building multi-tiered applications, embedded systems,full-stack solutions and Game Programming.  
+I’m a software engineer with **5+ years of experience** building  applications, embedded systems,full-stack solutions and Games.  
 
 Currently **Studying Game Programming in Sweden, Stockhom**, I specialize in:
 
 - **.NET Framework/Core** (C#, VB.NET, Blazor, WinForms)  
 - **Real-time & embedded communication** (ESP32, Modbus RTU, MQTT, Bluetooth)  
-- **Game development with Unity** (PC & Mobile)  
+- **Game development with Unity, Godot, Unreal** (PC & Mobile)  
 - **Firebase/SQL Server-based backend systems**  
 - **Team leadership, technical recruitment, and mentoring**
 - **Game Programming Patterns**(EnemyFactory, Singltons, object pooling)
@@ -43,10 +43,10 @@ Unity, Firebase, Firestore, Arduino IDE, Excel Macros
 ESP32, Modbus RTU (RS-485), MQTT, WebSocket  
 
 **Database Systems:**  
-SQL Server, MySQL, Firebase Realtime DB  
+SQL Server, MySQL, Firebase Realtime DB , Postgres
 
 **Practices:**  
-Agile/Scrum, TLS, AES Encryption, data confidentiality handling  
+Agile/Scrum, TLS, AES Encryption, data confidentiality handling 
 
 ---
 
